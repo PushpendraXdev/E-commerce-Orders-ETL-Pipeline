@@ -31,3 +31,5 @@ missing_price.show()
 
 print("duplicate order id:")
 duplicate_order_id.show()
+
+spark.stop()
